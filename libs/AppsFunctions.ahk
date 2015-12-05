@@ -146,7 +146,7 @@ resetConsoleCommand(args, arg1) {
 
 global prevSel = ""
 CDX(args, arg1) {
-	RunOrActivateApp(Path_filemanager, Wnd_totalcmd)
+	RunOrActivateApp(Path_totalcmd, Wnd_totalcmd)
 	if (!WinActive(Wnd_totalcmd)) {
 		console.Accept("Total Commander is not running.", -1, 0xFFDD5555)
 		return

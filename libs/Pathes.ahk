@@ -22,7 +22,7 @@ global Path_commandlineshell := "cmd.exe"
 global Path_calculator := "calc.exe"
 global Path_regedit := "regedit.exe"
 
-global Path_filemanager := Path_basicapps "totalcmd\TOTALCMD.EXE"
+global Path_totalcmd := Path_basicapps "totalcmd\TOTALCMD.EXE"
 global Path_texteditor := Path_basicapps "np++\notepad++.exe"
 global Path_torrentclient := Path_basicapps "uTorrent\uTorrent.exe"
 global Path_videoplayer := Path_basicapps "VLC\vlc.exe"
