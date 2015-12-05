@@ -1,6 +1,7 @@
 #include ..\libs\Pathes.ahk
 #include ..\libs\AHKPanic.ahk
 #include ..\libs\AppsFunctions.ahk
+#include ..\libs\TotalCmdFuncs.ahk
 #include MetaConsole.ahk
 
 
